@@ -1,1 +1,1 @@
-"tthis is a file B" 
+"tthis is a file B"  - changed
